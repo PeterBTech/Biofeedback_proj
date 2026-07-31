@@ -25,3 +25,5 @@ data/
 
 # Logs and outputs
 *.log
+scratch/
+docs/build-notes.md
